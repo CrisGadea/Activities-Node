@@ -1,0 +1,20 @@
+{
+  "name": "actividad3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisGadea/Activities-Node.git"
+  },
+  "author": "Cristian Gadea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrisGadea/Activities-Node/issues"
+  },
+  "homepage": "https://github.com/CrisGadea/Activities-Node#readme"
+}
